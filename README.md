@@ -75,11 +75,8 @@ php -S localhost:8080 -t /chemin/vers/social-network/
 
 ## Membres du groupe
 
-- AMOUSSOU-GUENOU Donald
-- BELLO Deen
-- GOUTHON Bachard
-- HACHEME Loan
+- [Noms des membres]
 
 ## Dépôt
 
-[Lien vers le dépôt GitHub/GitLab]
+https://github.com/Snart2kz/Reseau-Social.git
